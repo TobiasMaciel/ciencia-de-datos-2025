@@ -1,0 +1,13 @@
+PyCharmMiscProject.iml
+*.ju.py
+.venv/
+venv/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.ruff_cache/
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
